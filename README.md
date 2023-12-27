@@ -51,6 +51,14 @@ While the generated images are of 64x64 resolution, our qualitative analysis ind
 ## Explore the Work
 Feel free to explore our codebase, experimental results, and detailed learnings. Your engagement and feedback are highly valued as we continue refining and expanding our project.  Check out our [Colab Notebook](https://colab.research.google.com/drive/14j2jbeLtjV7C_RpAXAVkKSnikx2OaDZ0?usp=sharing).
 
+###GloVe Embedding:
+
+For semantic enhancement of captions, we utilized [GloVe Embedding](https://drive.google.com/file/d/1VMxxJiS5pMe3XIp6xxvu5IRemIgT16Ft/view?usp=sharing).
+
+###Project Files and Output: 
+
+Explore the generated images and project files on our [Google Drive](https://drive.google.com/drive/folders/1MnuaZT0havkPazF7KSkpGSCr5bg11KQO?usp=sharing).
+
 ## Team
 - **Anish Borkar**
 - **Godavarthi Sai Nikhil**
