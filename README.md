@@ -49,7 +49,7 @@ DCGAN (Deep Convolutional Generative Adversarial Network) is a specific variant 
 While the generated images are of 64x64 resolution, our qualitative analysis indicates the model's growing accuracy in comprehending prompts and generating appropriate images. This project marks our initiation into the realm of generative AI models, motivating us to explore further applications and contribute to this dynamic field.
 
 ## Explore the Work
-Feel free to explore our codebase, experimental results, and detailed learnings. Your engagement and feedback are highly valued as we continue refining and expanding our project.  Check out our [Colab Notebook](https://colab.research.google.com/drive/14j2jbeLtjV7C_RpAXAVkKSnikx2OaDZ0?usp=sharing).
+Feel free to explore our codebase, experimental results, and detailed learnings. Your engagement and feedback are highly valued as we continue refining and expanding our project.  Check out our [Colab Notebook](https://colab.research.google.com/drive/17QORlDntZTgUlsjcIij-J-PJ2bNccZYZ?usp=sharing).
 
 ###GloVe Embedding:
 
